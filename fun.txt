@@ -1,6 +1,1 @@
-“Hello world!” - said everyone, always
-"Not Always." - said everyone
-
-We code in nano yall.
-
-It's really cool.
+Some really cool change
